@@ -7,6 +7,12 @@
   },
   "dependencies": {
     "express": "3.5.1",
-    "jade": "*"
+    "jade": "*",
+    "react": "^15.1.0",
+    "react-redux": "^4.4.5",
+    "redux": "^3.5.2"
+  },
+  "devDependencies": {
+    "redux-devtools": "^3.3.1"
   }
 }
